@@ -3,10 +3,10 @@
 Open `index.html` in a browser and use the section cards to browse experiments. Every listed question is represented as a separate HTML page with a short objective and a runnable demonstration area. The pages use local CSS and JavaScript files, so no network connection or installation is required.
 
 ## Student details
-- Student Name: ____________________
-- Register Number: ____________________
-- Class / Section: ____________________
-- Subject: HTML, CSS & JavaScript
+- Student Name: M.hemanth
+- Register Number: 250200208
+- Class / Section:2nd year / 7th section
+- Subject : web technology and internet programing
 - Assignment: Practical Programs
 
 ## Program counts
